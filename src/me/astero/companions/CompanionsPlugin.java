@@ -5,6 +5,20 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.logging.Level;
 
+// 
+// Dear Programmer:
+// When this code was written, only god and Aster0.
+// knew how it worked.
+// now, only god knows!
+// 
+// So if you are trying to 'Optimize'.
+// this routine and it fails (100% surely),
+// please increment the following counter
+// as a warning 
+// for the next colleague:
+// total hours lost here = 3
+//  
+
 import me.astero.companions.companiondata.PlayerData;
 import me.astero.companions.companiondata.packets.*;
 import org.bukkit.Bukkit;
